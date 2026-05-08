@@ -1,1 +1,6 @@
-
+{
+  "engine_version": "8.1.2",
+  "ffmpeg_url": "https://github.com/SingnShine/mp4-volume-booster-updates/releases/download/engine-8.1.2/ffmpeg.exe",
+  "ffplay_url": "https://github.com/SingnShine/mp4-volume-booster-updates/releases/download/engine-8.1.2/ffplay.exe",
+  "notes": "Updated FFmpeg/FFplay engine with audio stability improvements and bug fixes."
+}
